@@ -8,10 +8,12 @@
 <script  src="http://code.jquery.com/jquery-latest.min.js"></script>
 
 <script type="text/javascript">
+
+
 $(window).load(function(){
   allview.ImageFilePath = "정보처리.pdf";
   allview.DrawImage();
-  
+xzczx  
 });
 </script>
 </head>
